@@ -1,0 +1,4 @@
+int Main(){
+int a;
+
+}
