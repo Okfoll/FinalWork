@@ -1,4 +1,4 @@
 int Main(){
-int a;
 int al; 
+int b; // parametr 1
 }
